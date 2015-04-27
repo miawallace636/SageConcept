@@ -1,0 +1,4 @@
+C:\Users\ibemman\documents\visual studio 2013\Projects\SageConcept\ModuleTracking\bin\Debug\ModuleTracking.dll
+C:\Users\ibemman\documents\visual studio 2013\Projects\SageConcept\ModuleTracking\bin\Debug\ModuleTracking.pdb
+C:\Users\ibemman\documents\visual studio 2013\Projects\SageConcept\ModuleTracking\obj\Debug\ModuleTracking.dll
+C:\Users\ibemman\documents\visual studio 2013\Projects\SageConcept\ModuleTracking\obj\Debug\ModuleTracking.pdb

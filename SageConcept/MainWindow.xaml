@@ -1,0 +1,21 @@
+﻿<Controls:MetroWindow
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:SageConcept" x:Class="SageConcept.MainWindow"
+        Title="Sage Deskstop Exchange" Height="350" Width="525">
+	<Controls:MetroWindow.Resources>
+		<Color x:Key="Foreground">#FFD1D1D1</Color>
+		<Color x:Key="Button_BG">#FF6C6C6C</Color>
+		<Color x:Key="Icon_BG">#FFB4B4B4</Color>
+	</Controls:MetroWindow.Resources>
+	<Grid Background="{DynamicResource Background}">
+		<StackPanel HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Width="250">
+			<local:Btn_Settings Height="50" Margin="0,10"/>
+			<local:Btn_Tracing Height="50" Margin="0,10"/>
+			<local:Btn_Updates Height="50" Margin="0,10"/>
+			<local:Btn_Restart Height="50" Margin="0,10"/>
+		</StackPanel>
+        
+	</Grid>
+</Controls:MetroWindow>

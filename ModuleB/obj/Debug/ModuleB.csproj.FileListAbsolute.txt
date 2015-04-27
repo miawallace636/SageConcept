@@ -1,0 +1,13 @@
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\ModuleB.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\ModuleB.pdb
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\ModuleTracking.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\ModuleTracking.pdb
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\obj\Debug\ModuleB.dll
+C:\Users\ibemman\Documents\Visual Studio 2013\Projects\SageConcept\ModuleB\obj\Debug\ModuleB.pdb
